@@ -20,6 +20,7 @@
 | Вітальня (Cozy) | Кухня (Modern) | Вечір (Comfort) |
 |---|---|---|
 | ![Cozy](Test_Assignments/1.jpg) | ![Modern](Test_Assignments/3.jpg) | ![Evening](Test_Assignments/2.jpg) |
+| ![Cozy](Test_Assignments/1.jpg) | ![Modern](Test_Assignments/3.jpg) | ![Evening](Test_Assignments/2.jpg) |
 ### 📊 Звіт про виконання:
 * [cite_start]**2 хв** — Формування та адаптація промптів[cite: 2].
 * [cite_start]**2 хв** — Паралельна генерація 3-х варіантів[cite: 2].
