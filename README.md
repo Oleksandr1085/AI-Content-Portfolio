@@ -53,6 +53,16 @@
 
 
 ---
-**Контакти:** 067 220 57 80
 
 | ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
+
+
+### 📊 Звіт про виконання:
+* [cite_start]**2 хв** — Формування та адаптація промптів[cite: 2].
+* [cite_start]**2 хв** — Паралельна генерація 3-х варіантів[cite: 2].
+* [cite_start]**1 хв** — Відбір та контроль якості (QA)[cite: 3].
+
+
+[cite_start]**Інструменти:** ChatGPT (DALL-E 3)[cite: 6].
+
+**Контакти:** 067 220 57 80
