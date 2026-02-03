@@ -40,20 +40,6 @@
 
 ---
 
-## 🎬 Кейс: AI Video & Character Consistency
-*Створення відео на основі статичного зображення із збереженням ідентичності персонажа.*
-
-![AI Video Result](Test_Assignments/result.gif)
-
-**Особливості:**
-- **Модель:** Kling AI.
-- **Контроль:** Високий рівень Face Consistency (збереження рис обличчя) при динамічних рухах.
-- **Стилістика:** Подкаст-формат (референс Joe Rogan Experience).
-
-
-
----
-
 | ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
 
 
