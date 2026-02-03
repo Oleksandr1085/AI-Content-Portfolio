@@ -19,7 +19,7 @@
 
 | Вітальня (Cozy) | Кухня (Modern) | Вечір (Comfort) |
 |---|---|---|
-| ![1](Joe%20Rogan%20Style%20Concept/1.jpg) | ![2](Joe%20Rogan%20Style%20Concept/2.jpg) | ![3](Joe%20Rogan%20Style%20Concept/3.jpg) |
+| ![Cozy](Test_Assignments/1.jpg) | ![Modern](Test_Assignments/3.jpg) | ![Evening](Test_Assignments/2.jpg) |
 ### 📊 Звіт про виконання:
 * [cite_start]**2 хв** — Формування та адаптація промптів[cite: 2].
 * [cite_start]**2 хв** — Паралельна генерація 3-х варіантів[cite: 2].
