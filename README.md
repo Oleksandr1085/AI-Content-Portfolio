@@ -57,9 +57,6 @@
 
 
 
-
-| Вітальня | Кухня | Вечір|
-
+| Вітальня | Кухня | Вечір |
 |---|---|---|
-
 | ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.png) |
