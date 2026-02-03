@@ -70,6 +70,8 @@
 
 | Вітальня (Cozy) | Кухня (Modern) | Вечір (Comfort) |
 |---|---|---|
+| Вітальня (Cozy) | Кухня (Modern) | Вечір (Comfort) |
+|---|---|---|
 | ![Cozy](Test_Assignments/Task1%20Cozy_Living_Room.jpg.jpg) | ![Modern](Test_Assignments/Task2_Modern_Kitchen.jpg.jpg) | ![Evening](Test_Assignments/Task3%20Evening_Comfort.jpg.jpg) |
 
 ### 📊 Звіт про виконання:
