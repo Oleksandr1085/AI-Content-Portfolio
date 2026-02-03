@@ -55,10 +55,4 @@
 ---
 **Контакти:** 067 220 57 80
 
-| ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) |
-
-
-
-| Вітальня | Кухня | Вечір |
-|---|---|---|
-| ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.png) |
+| ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) |
