@@ -27,7 +27,7 @@
 
 ---
 
-| ![Cozy Living Room](Test_Assignments/1.jpg) | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
+| ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
 
 
 ### 📊 Звіт про виконання:
