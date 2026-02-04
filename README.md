@@ -21,9 +21,9 @@ Tools: GitHub (project structuring), After Effects (basic video editing), ChatGP
 
 ---
 
-## ⚡ Завдання №2: Експрес-генерація (Speedrun)
+## ⚡ Project #2: Express Generation (Speedrun)
 
-[cite_start]**Загальний час виконання:** 5 хвилин[cite: 1].
+[cite_start]**Total Execution Time: 5 minutes.[cite: 1].
 
 ---
 
