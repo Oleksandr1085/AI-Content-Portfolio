@@ -4,10 +4,10 @@
 Greetings! I am an AI Creator and Researcher specializing in generative content development and exploring the capabilities of modern neural networks. My approach is built on speed, systematic thinking, and technical adaptability.
 
 ## 🚀 Key Expertise & AI Stack
-* **AI Video Generation:** Kling AI, Luma (створення динамічних рекламних креативів та візуальних хуків).
-* **Image Synthesis:** Midjourney, DALL-E 3 (контроль консистентності персонажів та lifestyle-локацій).
-* **Workflow Optimization:** Побудова пайплайнів швидкої генерації (Speedrun: 3 варіанти за 5 хвилин).
-* **Tools:** GitHub (структурування проектів), After Effects (базовий монтаж), ChatGPT (Prompt Engineering).# Portfolio: AI Content Creation
+AI Video Generation: Kling AI, Luma (creating dynamic ad creatives and visual hooks).
+Image Synthesis: Midjourney, DALL-E 3 (character consistency and lifestyle location control).
+Workflow Optimization: Designing rapid generation pipelines (Speedrun: 3 variations in 5 minutes).
+Tools: GitHub (project structuring), After Effects (basic video editing), ChatGPT/Claude (Advanced Prompt Engineering).
 
 ## 🎙 Завдання №1: Концепт подкасту (Joe Rogan Style)
 **Інструменти:** Midjourney, Kling AI
