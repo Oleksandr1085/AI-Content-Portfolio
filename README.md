@@ -31,13 +31,19 @@ Tools: GitHub (project structuring), After Effects (basic video editing), ChatGP
 
 Performance Report:
 2 min — Prompt engineering and adaptation.
+
 2 min — Parallel generation of 3 variations.
+
 1 min — Selection and Quality Assurance (QA) control.
+
 Tools used: ChatGPT (DALL-E 3).
 
 Contact Information:
+
 Phone: +38 (067) 220-57-80 
+
 Email: Klimchuk10@i.ua 
+
 LinkedIn: @Alexandro Alexandro
 
 
