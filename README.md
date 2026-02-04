@@ -29,7 +29,7 @@ Tools: GitHub (project structuring), After Effects (basic video editing), ChatGP
 
 | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
 
-Performance Report:
+**Performance Report:**
 2 min — Prompt engineering and adaptation.
 
 2 min — Parallel generation of 3 variations.
@@ -42,11 +42,11 @@ Tools used: ChatGPT (DALL-E 3).
 
 **Contact Information:**
 
-Phone: +38 (067) 220-57-80 
+**Phone: +38 (067) 220-57-80**
 
-Email: Klimchuk10@i.ua 
+**Email: Klimchuk10@i.ua**
 
-LinkedIn: @Alexandro Alexandro
+**LinkedIn: @Alexandro Alexandro**
 
 
 
