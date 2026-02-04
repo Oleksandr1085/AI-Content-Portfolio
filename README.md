@@ -1,7 +1,7 @@
 
 # AI Content & Data Research Portfolio
 
-Вітаю! Я — AI Creator та Researcher, що спеціалізується на розробці генеративного контенту та дослідженні можливостей сучасних нейромереж. Мій підхід базується на швидкості, системності та технічній адаптивності.
+Greetings! I am an AI Creator and Researcher specializing in generative content development and exploring the capabilities of modern neural networks. My approach is built on speed, systematic thinking, and technical adaptability.
 
 ## 🚀 Key Expertise & AI Stack
 * **AI Video Generation:** Kling AI, Luma (створення динамічних рекламних креативів та візуальних хуків).
