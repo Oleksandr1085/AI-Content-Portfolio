@@ -9,7 +9,7 @@ Image Synthesis: Midjourney, DALL-E 3 (character consistency and lifestyle locat
 Workflow Optimization: Designing rapid generation pipelines (Speedrun: 3 variations in 5 minutes).
 Tools: GitHub (project structuring), After Effects (basic video editing), ChatGPT/Claude (Advanced Prompt Engineering).
 
-## 🎙 Завдання №1: Концепт подкасту (Joe Rogan Style)
+## 🎙 Project #1:: Podcast Concept (Joe Rogan Style)
 **Інструменти:** Midjourney, Kling AI
 
 | Варіант 1: Психолог | Варіант 2: Студія |
