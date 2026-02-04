@@ -30,11 +30,11 @@ Tools: GitHub (project structuring), After Effects (basic video editing), ChatGP
 | ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
 
 **Performance Report:**
-2 min — Prompt engineering and adaptation.
+Prompt Engineering & Adaptation: 2 min (high-efficiency structured prompting).
 
-2 min — Parallel generation of 3 variations.
+Parallel Multimodal Generation: 2 min (simultaneous workflow for 3 variations).
 
-1 min — Selection and Quality Assurance (QA) control.
+Quality Assurance & Selection: 1 min (rigorous artifact filtering and output validation).
 
 Tools used: ChatGPT (DALL-E 3).
 
