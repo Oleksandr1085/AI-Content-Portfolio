@@ -38,7 +38,9 @@ Performance Report:
 
 Tools used: ChatGPT (DALL-E 3).
 
-Contact Information:
+
+
+**Contact Information:**
 
 Phone: +38 (067) 220-57-80 
 
