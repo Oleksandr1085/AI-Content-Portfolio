@@ -16,7 +16,7 @@ With a background in **Process Management** and **Technical QA**, I approach AI 
 > 📺 **Production Phase 1: Dynamic Video Draft (Animatic)**
 > *This is an initial v1 Draft / Animatic Test created to evaluate action pacing, lighting shifts, and audio-to-video alignment under the original voiceover script.*
 
-<video src="./The_Janitor_Cinematic/The_Janitor_Draft_Concept.mp4" width="100%" controls></video>
+▶️ **[Дивитися відео-аніматик проєкту (The_Janitor_Draft_Concept.mp4)](./The_Janitor_Cinematic/The_Janitor_Draft_Concept.mp4)**
 
 👉 **[Click here to view the full project breakdown, QA insights, and final assets](./The_Janitor_Cinematic/)**
 
