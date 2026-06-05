@@ -1,35 +1,45 @@
 # 🎬 "The Janitor" — 3D Faceless Cinematic Micro-Series
 
-This project is a high-end cinematic look-development created as a technical test assignment for a mobile-first micro-series production pipeline.
+This project showcases a high-end cinematic look-development and visual pipeline created as a technical test assignment for a mobile-first micro-series production.
 
-## 📌 Project Overview
-* **Style:** 3D Faceless Documentary Narrative (inspired by channels like Blackfiles, fern, and Outplayed).
-* **Core Constraint:** Maintaining strict visual and character consistency using custom AI pipelines. 
-* **Character Specification:** Matte white humanoids with oval heads, features completely blank, wearing highly realistic and detailed contextual clothing.
+## 📌 Project Strategy: The Two-Phase Pipeline
+To ensure maximum production efficiency and quality control, the project was split into two distinct execution phases:
+1. **Phase 1: Look-Development & Style Locking (Final Stills):** Establishing a flawless, unified *3D Faceless* aesthetic across multiple complex environments with strict character consistency.
+2. **Phase 2: Motion Production Tests (Video Prompts):** Testing high-fidelity physics, environmental lighting dynamics, and fluid interaction using advanced text-to-video tools.
 
-## 🛠️ AI Toolset Used
-* **Google Whisk:** Scene composition, look-development, and architectural/character style-locking.
-* **Google Veo 3 (Flow):** High-fidelity text-to-video generation, volumetric fog rendering, fluid physics, and camera movement control.
-* **Suno AI:** Sound design, atmospheric dark scoring, and audio background matching.
-
----
-
-## 🎞️ Shot-by-Shot Production Breakdown & Prompts
-
-### 🏢 Shot 1: The Cartel Vault (Timing: 00:00 - 00:01)
-* **Visual Focus:** Volumetric dust particles catching sharp overhead light beams. Stacks of cartel cash and clean paper documents on a dark wooden desk. Noir/crime aesthetic.
-* **Key AI Assets:** `1 Image_202602021312.jpg`, `2 Image_202602021320.jpg`
-* **Video Generation:** Animated via Google Veo 3 to add rolling smoke/vapor effects rising from the background.
-
-### 🧹 Shot 2: Character Intro & Fluid Physics (Timing: 00:01 - 00:04)
-* **Visual Focus:** Detailed close-up of the matte white humanoid wearing realistic industrial janitor overalls next to a cleaning bucket. Transition to a wide shot tracking the character mopping a dark concrete basement floor.
-* **Technical Achievement:** Smooth reflection of green industrial neon lights on wet surfaces and dynamic fluid physics as the mop interacts with a deep red liquid stain (`3 Remove_the_red_2k_202602012014.jpeg`).
-
-### 🚨 Shot 3: The Heist Aftermath & Escape (Timing: 00:04 - 00:07)
-* **Visual Focus:** The janitor carrying a metallic bucket walks undetected past heavily armed tactical guards (`4Image_202602011942.jpg`). Cuts to a bird's-eye view of a semi-truck driving down an isolated highway enveloped in thick morning fog, followed by the final reveal of an empty, chaotic corporate office littered with stolen paper documents (`6 Remove_the_janitors_2k_202602021229.jpeg`).
+## 🛠️ AI Toolset
+* **Google Whisk:** Structural composition, environmental world-building, and character style-locking.
+* **Google Veo 3 (Flow):** Cinematic motion control, volumetric fog/lighting rendering, and liquid simulation.
+* **Suno AI:** Cinematic low-end ambient scoring and audio asset creation.
 
 ---
 
-## ⚙️ Technical Optimization & Key Takeaways
-1. **Prompt Debugging:** Leveraged a structured prompt architecture to force Google Whisk and Veo 3 to strictly isolate the "matte white" surface texture without applying default human facial features or shadows.
-2. **Environmental Cohesion:** Successfully locked the dark, desaturated color grading across three distinct environments (vault, industrial basement, foggy highway).
+## 🎞️ Shot-by-Shot Look-Development (Visual Script)
+
+### 🛣️ Shot 1: The Hook (Opening Scene)
+* **Concept Focus:** Establishing the atmospheric mood. An empty foggy highway lit only by the bright moon, followed by a dramatic bird's-eye view of a semi-truck cutting through the dense morning mist.
+* **Visual Identity:** Cinematic volumetric fog and desaturated blue-grey grading.
+* *[Insert Shot 1 Image/Video Here]*
+
+### 🏢 Shot 2: The Setup (Inside the Vault)
+* **Concept Focus:** The heist environment. High-contrast overhead spotlighting illuminating neat stacks of currency bills and administrative documents spread across a dark wooden table.
+* **Visual Identity:** Rich shadows, high-fidelity texture rendering on paper/money assets.
+* *[Insert Shot 2 Image/Video Here]*
+
+### 🧹 Shot 3: The Protagonist (Character Concept)
+* **Concept Focus:** Deep dive into character identity and strict visual constraints. The 3D faceless janitor profile shot standing next to a glowing wall clock, transitioning to a wide shot of him working in a dimly lit, industrial green concrete basement.
+* **Technical Milestone:** Flawless isolation of the smooth, featureless matte white head geometry combined with realistic fabric folds on the work uniform.
+* *[Insert Shot 3 Image/Video Here]*
+
+### 🚨 Shot 4: The Heist & Aftermath (The Climax)
+* **Concept Focus:** Narrative storytelling through environment. The janitor carrying a disposal bin, blending in while moving past corporate management and white-collar personnel. Cut to the aftermath: a completely ransacked office floor littered with documents and dramatic crime scene elements (blood tracking).
+* **Technical Milestone:** Maintaining stable object placement and structural continuity between the populated office scene and the destroyed aftermath scene.
+* *[Insert Shot 4 Image/Video Here]*
+
+---
+
+## ⚙️ Key Technical Takeaways & QA Insights
+
+* **Character Anchor Control:** Successfully bypassed default AI facial generation biases by structuring precise negative prompts and text weights to enforce a perfectly smooth, featureless matte texture without introducing artifacts or unwanted shadowing.
+* **Environmental Cohesion:** Locked color grading parameters across four distinct setting shifts (night highway, dark vault, green basement, lit office), ensuring a seamless viewer experience during rapid editing cuts.
+* **Physics Debugging:** Utilized video generation test blocks to evaluate how complex elements (like trailing liquids on concrete floor surfaces and moving headlight shafts through fog layers) respond to dynamic camera panning.
