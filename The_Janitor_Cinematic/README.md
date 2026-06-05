@@ -2,19 +2,31 @@
 
 This project showcases a high-end cinematic look-development and visual pipeline created as a technical test assignment for a mobile-first micro-series production.
 
+---
+
+## 📺 Production Phase 1: Dynamic Video Draft (Animatic)
+
+> ⚠️ **Production Note:** This is an initial **v1 Draft / Animatic Test** created to evaluate action pacing, lighting shifts, and audio-to-video alignment under the original voiceover script. It contains expected early-stage AI generation drifting, which was analyzed and corrected in the next phase.
+
+<p align="center">
+  <video src="The_Janitor_Draft_Concept.mov" width="100%" controls></video>
+</p>
+
+---
+
 ## 📌 Project Strategy: The Two-Phase Pipeline
 To ensure maximum production efficiency and quality control, the project was split into two distinct execution phases:
-1. **Phase 1: Look-Development & Style Locking (Final Stills):** Establishing a flawless, unified *3D Faceless* aesthetic across multiple complex environments with strict character consistency.
-2. **Phase 2: Motion Production Tests (Video Prompts):** Testing high-fidelity physics, environmental lighting dynamics, and fluid interaction using advanced text-to-video tools.
+1. **Phase 1: Video Draft & Pacing (Motion Tests):** Testing raw physics, environmental lighting dynamics, and fluid interaction using advanced text-to-video tools under script constraints.
+2. **Phase 2: Look-Development & Style Locking (Final Stills):** Debugging style drifts from Phase 1 to establish a flawless, unified *3D Faceless* aesthetic across complex environments with strict character consistency.
 
 ## 🛠️ AI Toolset
-* **Google Whisk:** Structural composition, environmental world-building, and character style-locking.
 * **Google Veo 3 (Flow):** Cinematic motion control, volumetric fog/lighting rendering, and liquid simulation.
+* **Google Whisk:** Structural composition, environmental world-building, and character style-locking (Phase 2).
 * **Suno AI:** Cinematic low-end ambient scoring and audio asset creation.
 
 ---
 
-## 🎞️ Shot-by-Shot Look-Development (Visual Script)
+## 🎞️ Phase 2: Look-Development & Technical Fixes (Visual Script)
 
 ### 🛣️ Shot 1: The Hook (Opening Scene)
 * **Concept Focus:** Establishing the atmospheric mood. An empty foggy highway lit only by the bright moon, followed by a dramatic bird's-eye view of a semi-truck cutting through the dense morning mist.
@@ -60,8 +72,8 @@ To ensure maximum production efficiency and quality control, the project was spl
 
 ---
 
-## ⚙️ Key Technical Takeaways & QA Insights
+## ⚙️ Key Technical Takeaways & QA Insights (Prompt Engineering Analysis)
 
-* **Character Anchor Control:** Successfully bypassed default AI facial generation biases by structuring precise negative prompts and text weights to enforce a perfectly smooth, featureless matte texture without introducing artifacts or unwanted shadowing.
-* **Environmental Cohesion:** Locked color grading parameters across four distinct setting shifts (night highway, dark vault, green basement, lit office), ensuring a seamless viewer experience during rapid editing cuts.
-* **Physics Debugging:** Utilized video generation test blocks to evaluate how complex elements (like trailing liquids on concrete floor surfaces and moving headlight shafts through fog layers) respond to dynamic camera panning.
+* **Style Drifting & Concept Bleeding:** In the initial video draft (0:56), text-to-video models heavily defaulted to rendering standard human faces and corporate suits due to dataset bias. To bypass this, strict negative tokens were introduced in Phase 2 to suppress facial anatomy.
+* **Character Mutation Control:** Observed prompt degradation between cuts where the smooth white head mutated into standard mannequin textures (1:04). This was successfully solved in the final look-development stills by implementing structural image-to-image anchoring via Google Whisk.
+* **Environmental Consistency:** Successfully locked the cinematic lighting models (volumetric fog, high-contrast overhead spots) across shifting locations, eliminating unwanted color artifacts found in early video iterations.
