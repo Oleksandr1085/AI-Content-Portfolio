@@ -1,4 +1,3 @@
-
 # AI Content Production Portfolio
 
 Welcome! I am an AI Content Creator focused on building controlled, cinematic visual pipelines using cutting-edge generative AI tools. 
@@ -13,7 +12,15 @@ With a background in **Process Management** and **Technical QA**, I approach AI 
 * **Format:** Mobile-First Vertical Micro-Series (Documentary Noir Style)
 * **Core Technical Milestone:** Achieving 100% character consistency using blank matte-white humanoid profiles combined with highly realistic contextual clothing across completely different environments.
 * **AI Stack:** Google Whisk (Look-Development) + Google Veo 3 (Flow Animation Tests)
-* 👉 **[Click here to view the full project breakdown and final assets](./The_Janitor_Cinematic/)**
+
+> 📺 **Production Phase 1: Dynamic Video Draft (Animatic)**
+> *This is an initial v1 Draft / Animatic Test created to evaluate action pacing, lighting shifts, and audio-to-video alignment under the original voiceover script.*
+
+<p align="center">
+  <video src="./The_Janitor_Cinematic/The_Janitor_Draft_Concept.mp4" width="100%" controls></video>
+</p>
+
+👉 **[Click here to view the full project breakdown, QA insights, and final assets](./The_Janitor_Cinematic/)**
 
 ---
 
@@ -31,7 +38,3 @@ With a background in **Process Management** and **Technical QA**, I approach AI 
 * **Email:** Klimchuk10@i.ua
 * **Phone:** +38 (067) 220-57-80
 * **Language Proficiency:** English (B2 - Upper-Intermediate)
-
-
-
-
