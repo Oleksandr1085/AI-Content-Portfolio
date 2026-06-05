@@ -8,8 +8,13 @@ This project showcases a high-end cinematic look-development and visual pipeline
 
 > ⚠️ **Production Note:** This is an initial **v1 Draft / Animatic Test** created to evaluate action pacing, lighting shifts, and audio-to-video alignment under the original voiceover script. It contains expected early-stage AI generation drifting, which was analyzed and corrected in the next phase.
 
+```markdown
 <p align="center">
-  <video src="The_Janitor_Draft_Concept.mov" width="100%" controls></video>
+  <video src="./The_Janitor_Draft_Concept.mov" width="100%" controls>
+    Your browser does not support the video tag. 
+  </video>
+  <br>
+  🎬 <b><a href="./The_Janitor_Draft_Concept.mov">Click here to open/download the raw video file directly</a></b> if the player doesn't load.
 </p>
 
 ---
