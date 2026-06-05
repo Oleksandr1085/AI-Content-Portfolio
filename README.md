@@ -1,54 +1,36 @@
 
-# AI Content & Data Research Portfolio
+# AI Content Production Portfolio
 
-Greetings! I am an AI Creator and Researcher specializing in generative content development and exploring the capabilities of modern neural networks. My approach is built on speed, systematic thinking, and technical adaptability.
+Welcome! I am an AI Content Creator focused on building controlled, cinematic visual pipelines using cutting-edge generative AI tools. 
 
-## 🚀 Key Expertise & AI Stack
-AI Video Generation: Kling AI, Luma (creating dynamic ad creatives and visual hooks).
-Image Synthesis: Midjourney, DALL-E 3 (character consistency and lifestyle location control).
-Workflow Optimization: Designing rapid generation pipelines (Speedrun: 3 variations in 5 minutes).
-Tools: GitHub (project structuring), After Effects (basic video editing), ChatGPT/Claude (Advanced Prompt Engineering).
-
-## 🎙 Project #1:: Podcast Concept (Joe Rogan Style)
-**Інструменти:** Midjourney, Kling AI
-
-| Варіант 1: Психолог | Варіант 2: Студія |
-|---|---|
-| ![Психолог](Joe%20Rogan%20Style%20Concept/Foto.jpg) | ![Студія](Joe%20Rogan%20Style%20Concept/Foto%202.jpg) |
-
-### 🎬 Відео-демонстрація
-[Натисніть тут, щоб переглянути анімацію персонажа](Joe%20Rogan%20Style%20Concept/Video.mp4)
+With a background in **Process Management** and **Technical QA**, I approach AI generation with an analytical mindset—debugging prompts, stabilizing character consistency, and optimizing workflows to deliver high-quality assets under strict production timelines.
 
 ---
 
-## ⚡ Project #2: Express Generation (Speedrun)
+## 🚀 Featured Project
 
-[cite_start]**Total Execution Time: 5 minutes.[cite: 1].
+### 🎬 [NEW] "The Janitor" — 3D Faceless Cinematic Micro-Series
+* **Format:** Mobile-First Vertical Micro-Series (Documentary Noir Style)
+* **Core Technical Milestone:** Achieving 100% character consistency using blank matte-white humanoid profiles combined with highly realistic contextual clothing across completely different environments.
+* **AI Stack:** Google Whisk (Look-Development) + Google Veo 3 (Flow Animation Tests)
+* 👉 **[Click here to view the full project breakdown and final assets](./The_Janitor_Cinematic/)**
 
 ---
 
-| ![Modern Kitchen](Test_Assignments/3.jpg) | ![Evening Interior](Test_Assignments/2.jpg.jpeg) | ![Living Room 2](Test_Assignments/4.jpg.jpeg) | ![Kitchen](Test_Assignments/2.jpg.jpeg) |
+## 🛠️ Core AI Competencies
 
-**Performance Report:**
+* **Character & Object Continuity:** Advanced experience in keeping characters identical across multiple frames, camera angles, and text-to-video transitions without structural morphing.
+* **Cinematic Directing via Prompts:** Deep understanding of camera framing (wide shots, extreme close-ups, panning), lighting models (volumetric fog, rim lighting, overhead spotlights), and documentary-style color grading.
+* **Workflow Optimization:** Building structured prompt architectures to bypass default AI biases and accelerate iterative production cycles.
 
-Prompt Engineering & Adaptation: 2 min (high-efficiency structured prompting).
+---
 
-Parallel Multimodal Generation: 2 min (simultaneous workflow for 3 variations).
+## 📬 Contact Information
 
-Quality Assurance & Selection: 1 min (rigorous artifact filtering and output validation).
-
-Tools used: ChatGPT (DALL-E 3).
-
-
-
-**Contact Information:**
-
-**Phone: +38 (067) 220-57-80**
-
-**Email: Klimchuk10@i.ua**
-
-**LinkedIn: @Alexandro Alexandro**
-
+* **Name:** Oleksandr Klymchuk
+* **Email:** Klimchuk10@i.ua
+* **Phone:** +38 (067) 220-57-80
+* **Language Proficiency:** English (B2 - Upper-Intermediate)
 
 
 
